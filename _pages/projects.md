@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of cool projects.
 nav: true
 nav_order: 2
-display_categories: [General public science, Funded projects, Research themes]
+display_categories: [Funded projects, Research themes, General public science]
 horizontal: false
 ---
 
