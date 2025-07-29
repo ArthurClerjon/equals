@@ -62,15 +62,20 @@ permalink: /projects/equals
 
 ## Project Summary
 
-**EQUALS** addresses a critical challenge in the global energy transition: how can we deploy low-carbon electricity systems that are technically feasible, environmentally sustainable, and socially fair—across regions with very different climates, needs, and resources?
+**EQUALS** addresses a major global challenge: transitioning from fossil fuel-based energy systems to low-carbon alternatives, such as intermittent renewable energy sources (IRES), nuclear and hydro0power. 
+In a context of limited raw material availability, planetary boudaries, this transition must ensure optimal resource use to provide the best possible energy service. 
+Indeed, depending on climate, energy uses, territorial specificities, the relevance of deploying an energy source depends from a region to another.
 
-Funded by the ANR JCJC programme and coordinated by **Arthur Clerjon**, the project explores how solar, wind, nuclear, and hydropower can be most effectively distributed worldwide. The goal is to reduce reliance on fossil fuels while respecting planetary boundaries and resource limitations.
+Funded by the ANR JCJC programme and coordinated by **Arthur Clerjon**, EQUALS explores how solar, wind can be most effectively distributed worldwide. 
+The goal is to understand how to reduce the reliance on fossil fuels while respecting planetary boundaries and resource limitations and territorial specificities.
 
-A central concept in EQUALS is that of **energy service**—the ability of an energy source to meet demand when and where it arises. For instance, solar power works particularly well in California, where demand peaks in summer due to air conditioning—exactly when solar production is high. In contrast, France experiences peak electricity needs in winter, when solar output is minimal. The same solar panel delivers very different service in each context.
 
-To analyze such differences, EQUALS will develop a global energy model that assesses how well low-carbon electricity sources match regional energy demand. It will also account for environmental constraints, material needs, and the physical space required for infrastructure.
+To analyze such differences,an innovative electricity system optimization model that integrates raw material availability at its core. 
+This global analysis will be regionalized, taking into account local climates, energy demand, and territorial characteristics. The model will focus on the temporal match between electricity demand and iRES supply (e.g., wind, photovoltaic), accurately assessing flexibility needs and power system sizing. 
+The goal is to depict a global distribution of low-carbon energy sources that will minimize fossil fuel use, considering environmental and territorial constraints.
 
-By openly sharing its methods and results, EQUALS aims to support more informed, inclusive, and sustainable energy decisions.
+This project is built on a transparent methodology and an open-source model, making the results accessible to a wide audience. 
+With this interdisciplinary and open approach, the project aims to co-construct transition scenarios, fostering broader participation in decision-making processes for energy systems sustainability.
 
 **Overall, EQUALS seeks to:**
 
