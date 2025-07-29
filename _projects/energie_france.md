@@ -30,6 +30,8 @@ og_type: article
   Ce travail a d’abord été publié sur le site du <strong>CEA I-Tésé</strong> entre 2022 et 2023. 
   Cette page en propose une republication enrichie (graphiques interactifs, contenu éditorial). 
   L’article original est consultable <a href="https://www.cea.fr/energies/i-tese/Pages/Actualites/Focus-Thematiques/usages-energie-france.aspx" target="_blank">à cette adresse</a>.
+
+  Cette page n'est ainsi qu'une version légèrement modifiée de la page web originale.
 </div>
 
 

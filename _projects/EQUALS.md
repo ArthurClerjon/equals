@@ -63,7 +63,7 @@ permalink: /projects/equals
 ## Project Summary
 
 **EQUALS** addresses a major global challenge: transitioning from fossil fuel-based energy systems to low-carbon alternatives, such as intermittent renewable energy sources (IRES), nuclear, and hydropower. In a world with limited raw material availability and planetary boundaries, this transition must ensure optimal resource use to provide the best possible energy service.
-Indeed, rhe relevance of deploying an energy source varies from region to region, depending on climate, energy uses, and territorial specificities.
+Indeed, the relevance of deploying an energy source varies from region to region, depending on climate, energy uses, and territorial specificities.
 
 Funded by the ANR JCJC programme and coordinated by **Arthur Clerjon**, EQUALS explores how solar and wind energy can be most effectively distributed worldwide to reduce reliance on fossil fuels while respecting planetary boundaries, resource limitations, and territorial specificities.
 
@@ -138,5 +138,5 @@ These earlier studies form the conceptual and methodological basis of the EQUALS
   <li>📚 New publications and methodological notes</li>
 </ul>
 
-*Last updated: July 9, 2025*
+*Last updated: July 29, 2025*
 
