@@ -62,17 +62,14 @@ permalink: /projects/equals
 
 ## Project Summary
 
-**EQUALS** addresses a major global challenge: transitioning from fossil fuel-based energy systems to low-carbon alternatives, such as intermittent renewable energy sources (IRES), nuclear and hydro0power. 
-In a context of limited raw material availability, planetary boudaries, this transition must ensure optimal resource use to provide the best possible energy service. 
-Indeed, depending on climate, energy uses, territorial specificities, the relevance of deploying an energy source depends from a region to another.
+**EQUALS** addresses a major global challenge: transitioning from fossil fuel-based energy systems to low-carbon alternatives, such as intermittent renewable energy sources (IRES), nuclear, and hydropower. In a world with limited raw material availability and planetary boundaries, this transition must ensure optimal resource use to provide the best possible energy service.
+Indeed, rhe relevance of deploying an energy source varies from region to region, depending on climate, energy uses, and territorial specificities.
 
-Funded by the ANR JCJC programme and coordinated by **Arthur Clerjon**, EQUALS explores how solar, wind can be most effectively distributed worldwide. 
-The goal is to understand how to reduce the reliance on fossil fuels while respecting planetary boundaries and resource limitations and territorial specificities.
+Funded by the ANR JCJC programme and coordinated by **Arthur Clerjon**, EQUALS explores how solar and wind energy can be most effectively distributed worldwide to reduce reliance on fossil fuels while respecting planetary boundaries, resource limitations, and territorial specificities.
 
-
-To analyze such differences,an innovative electricity system optimization model that integrates raw material availability at its core. 
-This global analysis will be regionalized, taking into account local climates, energy demand, and territorial characteristics. The model will focus on the temporal match between electricity demand and iRES supply (e.g., wind, photovoltaic), accurately assessing flexibility needs and power system sizing. 
-The goal is to depict a global distribution of low-carbon energy sources that will minimize fossil fuel use, considering environmental and territorial constraints.
+To analyze such differences, we develop an innovative electricity system optimization model that integrates raw material availability at its core. 
+This global analysis will be regionalized, taking into account local climates, energy demand, and territorial characteristics. The model will focus on the temporal match between electricity demand and IRES supply (e.g., wind, photovoltaic), accurately assessing flexibility needs and power system sizing.
+The goal is to depict a global distribution of low-carbon energy sources that minimizes fossil fuel use, considering environmental and territorial constraints.
 
 This project is built on a transparent methodology and an open-source model, making the results accessible to a wide audience. 
 With this interdisciplinary and open approach, the project aims to co-construct transition scenarios, fostering broader participation in decision-making processes for energy systems sustainability.
