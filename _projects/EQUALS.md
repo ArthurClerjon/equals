@@ -12,7 +12,7 @@ permalink: /projects/equals
   <img src="/assets/img/EQUALS/logo_EQUALS.png"
        alt="EQUALS – Low-carbon electricity modeling project logo"
        style="width: 100%; max-width: 480px; border-radius: 16px; background: white; padding: 0.5em; display: block; margin: 0 auto 1em auto;" />
-
+git add
   <div>
     <div style="font-size: 1.07rem; font-weight: 400; color: #1d3557; letter-spacing: 0.5px; margin-bottom: 0.2em; line-height: 1.4;">
       EQUALS - Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World
@@ -25,7 +25,8 @@ permalink: /projects/equals
           French National Research Agency (ANR)</a> as part of the 2025 Generic Call for Proposals.<br>
         The project will begin in early 2026 and will run for four years.
         <br><br>
-        <strong>Two internships, one PhD position, and one postdoctoral position will soon be available. Join the team!</strong>
+          <strong>🚀 We are hiring, join the team!</strong> Two internships, one PhD position, and one postdoctoral position are available.<br>
+        👉 <a href="https://nuage.gresille.org/index.php/s/C5oq8qEP8F7gTDm" target="_blank"><strong>See the postdoc offer (PDF)</strong></a> | Contact: arthur.clerjon (at) cea.fr
       </p>
     </div>
   </div>
@@ -113,7 +114,7 @@ Overall, this figure shows an optimal mixes of PV and wind that would minimize d
 
 ## Related Page and References
 
-For more on the scientific foundation and background behind this work, see the [Power System Flexibility →](/power-system-flexibility) page.
+For more on the scientific foundation and background behind this work, see the [Power System Flexibility →](/projects/energy-system-flexibility) page.
 
 These earlier studies form the conceptual and methodological basis of the EQUALS project.
 
@@ -128,15 +129,30 @@ These earlier studies form the conceptual and methodological basis of the EQUALS
 </p>
 
 ---
+## Open Positions
+
+<div style="border: 2px solid #28a745; background-color: #f0fff4; padding: 1.2em 1.5em; margin: 1.5em 0; border-radius: 8px;">
+  <strong>🎯 Join the EQUALS team!</strong>
+  <ul style="margin-top: 0.8em; margin-bottom: 0;">
+    <li><strong>Postdoctoral researcher</strong> – Energy systems modeling & optimization<br>
+        <a href="https://nuage.gresille.org/index.php/s/C5oq8qEP8F7gTDm" target="_blank">📄 Download the offer (PDF)</a></li>
+    <li><strong>PhD position</strong> – Details coming soon</li>
+    <li><strong>Master's internships (x2)</strong> – Details coming soon</li>
+  </ul>
+  <p style="margin-top: 1em; margin-bottom: 0;">
+    📧 Contact: <strong>arthur.clerjon (at) cea.fr</strong>
+  </p>
+</div>
+
+---
 
 ## Coming Soon
 
 <ul>
-  <li>🧑‍🔬 <strong>Join the team!</strong> Internship, PhD, and postdoc openings—descriptions available soon. Contact arthur.clerjon (at) cea.fr!</li>
   <li>📊 Interactive platform for exploring deployment scenarios</li>
   <li>📁 Access to datasets and source code</li>
   <li>📚 New publications and methodological notes</li>
 </ul>
 
-*Last updated: July 29, 2025*
 
+*Last updated: February 2026*
