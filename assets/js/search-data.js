@@ -16,19 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/team/";
           },
-        },{id: "nav-publications-amp-communications",
-          title: "Publications &amp; Communications",
+        },{id: "nav-publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/equals/publications/";
-          },
-        },{id: "nav-news",
-          title: "News",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/equals/news/";
           },
         },{id: "nav-contact",
           title: "Contact",
@@ -44,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/joinus/";
           },
-        },{id: "nav-arthur-clerjon",
-          title: "↗ Arthur Clerjon",
+        },{id: "nav-about-the-pi",
+          title: "↗ About the PI",
           description: "",
           section: "Navigation",
           handler: () => {
