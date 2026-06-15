@@ -95,7 +95,7 @@ Below is an illustration of the project's approach, from the 2025 ECOS Internati
 ## Downloads & Links
 
 <p>
-  <a class="btn btn-primary" href="https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr" target="_blank">📄 Full Proposal (PDF)</a>
+  <a class="btn btn-primary" href="https://nuage.gresille.org/index.php/s/Y2srcFXNm8fK7a2" target="_blank">📄 Full Proposal (PDF)</a>
   <a class="btn btn-outline-secondary" href="https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g" target="_blank">📃 Pre-Proposal</a>
   <a class="btn btn-outline-primary" href="https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD" target="_blank">📝 Project Summary</a>
   <a class="btn btn-outline-secondary" href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank">🔗 ANR Project Page</a>
