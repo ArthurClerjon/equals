@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/contact/";
           },
+        },{id: "nav-join-us",
+          title: "Join Us",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/joinus/";
+          },
         },{id: "nav-arthur-clerjon",
           title: "↗ Arthur Clerjon",
           description: "",
