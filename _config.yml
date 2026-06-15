@@ -68,13 +68,17 @@ max_width: 930px
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: ArthurClerjon # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: arthur-clerjon # your LinkedIn user name
-scholar_userid: X0s6r3QAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-orcid_id: 0000-0002-9545-988X # your ORCID ID
+github_username:
+gitlab_username:
+twitter_username:
+linkedin_username:
+scholar_userid:
+semanticscholar_id:
+orcid_id:
+medium_username:
+quora_username:
+publons_id:
+research_gate_profile:
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons F-2946-2011 
