@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/equals/";
     },
-  },{id: "nav-team",
+  },{id: "nav-join-us",
+          title: "Join Us",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/joinus/";
+          },
+        },{id: "nav-team",
           title: "Team",
           description: "The people behind the EQUALS project",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/equals/publications/";
-          },
-        },{id: "nav-join-us",
-          title: "Join Us",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/equals/joinus/";
           },
         },{id: "nav-contact",
           title: "Contact",
