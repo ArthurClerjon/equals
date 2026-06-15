@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arthurclerjon.github.io/sitemap.xml
+Sitemap: https://arthurclerjon.github.io/equals/sitemap.xml

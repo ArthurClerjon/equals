@@ -7,34 +7,48 @@ ninja.data = [{
     title: "EQUALS",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/equals/";
     },
   },{id: "nav-team",
           title: "Team",
           description: "The people behind the EQUALS project",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/team/";
+            window.location.href = "/equals/team/";
+          },
+        },{id: "nav-publications-amp-communications",
+          title: "Publications &amp; Communications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/publications/";
           },
         },{id: "nav-news",
           title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/equals/news/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/contact/";
           },
         },{id: "nav-arthur-clerjon",
           title: "↗ Arthur Clerjon",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/pi/";
+            window.location.href = "/equals/pi/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/equals/books/the_godfather/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -82,7 +96,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("/equals/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
