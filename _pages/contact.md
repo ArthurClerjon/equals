@@ -1,8 +1,9 @@
 ---
-layout: equals
+layout: page
 title: Contact
-permalink: /equals/contact/
-nav: false
+permalink: /contact/
+nav: true
+nav_order: 5
 description: ""
 ---
 

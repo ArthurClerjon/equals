@@ -1,11 +1,12 @@
 ---
-layout: equals
+layout: page
 title: Publications & Communications
-permalink: /equals/publications/
-nav: false
-description: "Publications and communications related to the EQUALS project"
-bibliography: papers.bib
+permalink: /publications/
+nav: true
+nav_order: 3
+description: ""
 ---
+
 
 ## Publications
 
