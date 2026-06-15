@@ -7,33 +7,20 @@ description: "Equitable Allocation of Low-carbon Electricity Sources in a Changi
 ---
 
 <div style="display: block; margin-bottom: 2em; text-align: left;">
-  <img src="/assets/img/EQUALS/logo_EQUALS.png"
+  <img src="/equals/assets/img/EQUALS/logo_EQUALS.png"
        alt="EQUALS – Low-carbon electricity modeling project logo"
        style="width: 100%; max-width: 480px; border-radius: 16px; background: white; padding: 0.5em; display: block; margin: 0 auto 1em auto;" />
 
   <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px;">
-    <strong>🔔 About this project</strong><br>
+    <strong>🔔 About this project</strong>
     <p style="margin-top: 0.5em;">
       <strong>EQUALS</strong> is a research project funded by the
-      <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank" rel="noopener">French National Research Agency (ANR)</a>
+      <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank">French National Research Agency (ANR)</a>
       as part of the 2025 Generic Call for Proposals (ANR JCJC).
       The project started in early 2026 and will run for four years.<br><br>
       👉 <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank"><strong>Official ANR project page</strong></a>
     </p>
   </div>
-</div>
-
----
-
-## Quick Navigation
-
-<div style="display: flex; flex-wrap: wrap; gap: 1em; margin: 1.5em 0;">
-  <a href="/equals/team/" class="btn btn-outline-primary">👥 Team</a>
-  <a href="/equals/publications/" class="btn btn-outline-primary">📚 Publications & Communications</a>
-  <a href="/equals/resources/" class="btn btn-outline-primary">💾 Resources</a>
-  <a href="/equals/news/" class="btn btn-outline-primary">📰 News</a>
-  <a href="/equals/contact/" class="btn btn-outline-primary">✉️ Contact</a>
-  <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank" class="btn btn-outline-secondary">🔗 ANR Project Page</a>
 </div>
 
 ---
@@ -49,6 +36,8 @@ description: "Equitable Allocation of Low-carbon Electricity Sources in a Changi
   <li>To optimize the global allocation of low-carbon electricity sources in a resource-constrained world.</li>
   <li>To investigate how universal access to low-carbon electricity can be achieved in an equitable way — ensuring a decent standard of living while staying within planetary boundaries.</li>
 </ol>
+
+
 
 ---
 
@@ -91,8 +80,8 @@ Below is an illustration of the project's approach, from the 2025 ECOS Internati
 
 👉 [Duval et al. (2025) – ECOS Conference Paper](https://cea.hal.science/cea-05141769)
 
-<a href="/assets/img/EQUALS/PV_distribution_ECOS.png" target="_blank">
-  <img src="/assets/img/EQUALS/PV_distribution_ECOS.png"
+<a href="/equals/assets/img/EQUALS/PV_distribution_ECOS.png" target="_blank">
+  <img src="/equals/assets/img/EQUALS/PV_distribution_ECOS.png"
        alt="Optimal PV/Wind allocation"
        style="max-width:100%; border: 1px solid #ccc; padding: 5px;">
 </a>
@@ -106,9 +95,9 @@ Below is an illustration of the project's approach, from the 2025 ECOS Internati
 ## Downloads & Links
 
 <p>
-  <a class="btn btn-primary" href="https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr">📄 Full Proposal (PDF)</a>
-  <a class="btn btn-outline-secondary" href="https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g">📃 Pre-Proposal</a>
-  <a class="btn btn-outline-primary" href="https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD">📝 Project Summary</a>
+  <a class="btn btn-primary" href="https://nuage.gresille.org/index.php/s/9TonKDSQCjWzkZr" target="_blank">📄 Full Proposal (PDF)</a>
+  <a class="btn btn-outline-secondary" href="https://nuage.gresille.org/index.php/s/cLf7toepGt8nm3g" target="_blank">📃 Pre-Proposal</a>
+  <a class="btn btn-outline-primary" href="https://nuage.gresille.org/index.php/s/sioYgnqM3AHDQyD" target="_blank">📝 Project Summary</a>
   <a class="btn btn-outline-secondary" href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank">🔗 ANR Project Page</a>
 </p>
 
