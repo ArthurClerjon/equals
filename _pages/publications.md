@@ -10,8 +10,7 @@ description: ""
 
 ## Publications
 
-Publications related to the EQUALS project. For the full list of publications
-by the PI, see [Arthur Clerjon's publication page](https://arthurclerjon.github.io/publications/).
+Publications related to the EQUALS project. 
 
 {% bibliography --query @*[keywords ~= equals] %}
 
