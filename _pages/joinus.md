@@ -3,11 +3,9 @@ layout: page
 title: Join Us
 permalink: /joinus/
 nav: true
-nav_order: 4
 description: ""
 ---
 
-## Work with Us
 
 There are currently no open positions in the EQUALS project. However, we are always happy to hear from motivated researchers who want to collaborate.
 

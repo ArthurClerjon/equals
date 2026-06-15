@@ -9,29 +9,9 @@ description: ""
 
 <!-- _pages/publications.md -->
 
+You will find here the scientific publications, proceedings, our conference presentation related to the project.
+
 ## Publications
-
-Publications related to the EQUALS project.
-
-<!-- External Links with Icons -->
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;">
-  <span>Up-to-date publications are also available on:</span>
-  <a href="https://scholar.google.fr/citations?user=X0s6r3QAAAAJ&hl=fr" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-google-scholar"></i> Google Scholar
-  </a>
-  <a href="https://orcid.org/0000-0002-9545-988X" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-orcid"></i> ORCID
-  </a>
-  <a href="https://www.researchgate.net/profile/Arthur-Clerjon" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-researchgate"></i> ResearchGate
-  </a>
-  <a href="https://hal.science/search/index/?q=arthur+clerjon" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-hal"></i> HAL
-  </a>
-</p>
-
-<!-- Bibsearch Feature -->
-{% include bib_search.liquid %}
 
 <div class="publications">
 
