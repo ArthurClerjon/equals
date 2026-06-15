@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/publications/";
           },
-        },{id: "nav-contact",
-          title: "Contact",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/equals/contact/";
-          },
         },{id: "nav-join-us",
           title: "Join Us",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/equals/joinus/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/contact/";
           },
         },{id: "nav-about-the-pi",
           title: "↗ About the PI",
