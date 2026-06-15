@@ -1,7 +1,7 @@
 ---
-layout: equals
+layout: page
 title: EQUALS
-permalink: /equals/
+permalink: /
 nav: false
 description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
 ---

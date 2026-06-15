@@ -1,8 +1,9 @@
 ---
-layout: equals
+layout: page
 title: Team
-permalink: /equals/team/
-nav: false
+permalink: /team/
+nav: true
+nav_order: 2
 description: "The people behind the EQUALS project"
 ---
 

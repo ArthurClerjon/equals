@@ -1,49 +1,31 @@
 ---
-layout: page
-title: Publications
-description: "Liste complète des publications scientifiques d’Arthur Clerjon : énergie, décarbonation, modélisation, climat."
-permalink: /publications/
-nav: true
-nav_order: 3
+layout: equals
+title: Publications & Communications
+permalink: /equals/publications/
+nav: false
+description: "Publications and communications related to the EQUALS project"
+bibliography: papers.bib
 ---
 
-<!-- _pages/publications.md -->
+## Publications
 
-<!-- External Links with Icons -->
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;">
-  <span>Up-to-date publications are also available on:</span>
-  <a href="https://scholar.google.fr/citations?user=X0s6r3QAAAAJ&hl=fr" target="_blank">
-    <i class="ai ai-google-scholar"></i> Google Scholar
-  </a>
-  <a href="https://orcid.org/0000-0002-9545-988X" target="_blank">
-    <i class="ai ai-orcid"></i> ORCID
-  </a>
-  <a href="https://www.researchgate.net/profile/Arthur-Clerjon" target="_blank">
-    <i class="ai ai-researchgate"></i> ResearchGate
-  </a>
-  <a href="https://hal.science/search/index/?q=arthur+clerjon" target="_blank">
-    <i class="ai ai-hal"></i> HAL
-  </a>
-</p>
+Publications related to the EQUALS project. For the full list of publications
+by the PI, see [Arthur Clerjon's publication page](https://arthurclerjon.github.io/publications/).
 
-<!-- Bibsearch Feature -->
-{% include bib_search.liquid %}
+{% bibliography --query @*[keywords ~= equals] %}
 
-<div class="publications">
+---
 
-<h2>PhD Thesis</h2>
-{% bibliography -f papers -q @phdthesis %}
+## Communications & Presentations
 
-<h2>Peer-reviewed Articles</h2>
-{% bibliography -f papers -q @article %}
+### June 2026 — Future Earth Sustainability Science Conference, Lausanne 🇨🇭
 
-<h2>Under Review</h2>
-{% bibliography -f papers -q @unpublished %}
+**Operationalizing Energy Justice: Social Sciences and Quantitative Modeling for energy planning**
 
-<h2>Conference Proceedings</h2>
-{% bibliography -f papers -q @inproceedings %}
+Arthur Clerjon, Emmanuelle Santoire, and Justine Duval co-convened an interdisciplinary workshop
+at the [2026 Annual Sustainability Science Conference](https://pathways.futureearth.org/sustainability-science-conference/)
+(University of Lausanne, 2–5 June 2026).
 
-<h2>Presentations</h2>
-{% bibliography -f papers -q @misc %}
+---
 
-</div>
+*Last updated: June 2026*
