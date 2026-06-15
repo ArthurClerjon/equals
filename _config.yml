@@ -75,9 +75,6 @@ linkedin_username:
 scholar_userid:
 semanticscholar_id:
 orcid_id:
-medium_username:
-quora_username:
-publons_id:
 research_gate_profile:
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -328,7 +325,7 @@ scholar:
 
   details_dir: bibliography
   details_link: Details
-  
+
   query: "@*[keywords ~= equals]"
   group_by: year
   group_order: descending
