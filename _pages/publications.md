@@ -24,7 +24,7 @@ You will find here the scientific publications, proceedings, our conference pres
 <h2>Conference Proceedings</h2>
 {% bibliography -f papers -q @inproceedings[keywords ~= equals] %}
 
-<h2>Presentations</h2>
+<h2>Others</h2>
 {% bibliography -f papers -q @misc[keywords ~= equals] %}
 
 </div>
