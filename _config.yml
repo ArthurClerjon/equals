@@ -75,28 +75,26 @@ linkedin_username:
 scholar_userid:
 semanticscholar_id:
 orcid_id:
+medium_username:
+quora_username:
+publons_id:
 research_gate_profile:
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons F-2946-2011 
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id 6318684 
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
+blogger_url:
+work_url:
+keybase_username:
+wikidata_id:
+dblp_url:
+stackoverflow_id:
+kaggle_id:
+lastfm_id:
+spotify_id:
+pinterest_id:
+unsplash_id:
+instagram_id:
+facebook_id:
+discord_id:
 
-contact_note: > #You can even add a little note about which of these is the best way to reach you.
-
+contact_note:
 
 # TODO: add layout settings (single page vs. multi-page)
 
