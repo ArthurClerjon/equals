@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: "↗ Arthur Clerjon"
+title: "↗ About the PI"
 permalink: /pi/
 nav: true
 nav_order: 6
