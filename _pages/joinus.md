@@ -8,7 +8,7 @@ description: ""
 ---
 
 
-There are currently no open positions in the EQUALS project. However, we are always happy to hear from motivated researchers who want to collaborate.
+All positions funded by the ANR EQUALS grant are currently filled (see the [Team](https://arthurclerjon.github.io/equals/team/) page). However, we are always happy to hear from motivated researchers who want to collaborate.
 
 EQUALS is built on open science principles. We welcome researchers from energy modeling, climate science, geography, and related fields who want to contribute or build on our work.
 
