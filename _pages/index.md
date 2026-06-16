@@ -10,7 +10,7 @@ description: ""
 <div style="margin: 0 auto 2em; max-width: 640px;">
   <img src="/equals/assets/img/EQUALS/logo_EQUALS.png"
        alt="EQUALS – Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
-       style="width: 100%; border-radius: 16px; background: white; padding: 0.5em;" />
+       style="width: 120%; border-radius: 16px; background: white; padding: 0.5em;" />
 </div>
 
 <!-- Bloc institutionnel : mention de financement + logo ANR (financeur) -->
