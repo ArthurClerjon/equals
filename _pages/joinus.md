@@ -3,6 +3,7 @@ layout: page
 title: Join Us
 permalink: /joinus/
 nav: true
+nav_order: 3
 description: ""
 ---
 
