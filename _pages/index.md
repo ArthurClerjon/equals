@@ -20,7 +20,7 @@ description: ""
     <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank">
       <img src="/equals/assets/img/EQUALS/logo_ANR.png"
            alt="Funded by the French National Research Agency (ANR)"
-           style="height: 80px;" />
+           style="height: 120px;" />
     </a>
   </div>
 
@@ -34,24 +34,13 @@ description: ""
     <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank">French National Research Agency (ANR)</a>
     as part of the 2025 Generic Call for Proposals (ANR JCJC).
     The project started in early 2026 and will run for four years.<br><br>
+
+  The project acronym <strong>EQUALS</strong> stands for
+  <em>"EQUItable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World."</em>
+
     👉 <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank"><strong>Official ANR project page</strong></a>
   </p>
 </div>
-
----
-
-<p style="font-style: italic; font-size: 1.05rem; text-align: justify;">
-  The project acronym <strong>EQUALS</strong> stands for
-  <em>"EQUItable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World."</em>
-  Another possible name could have been <em>"Optimal Allocation of Low-carbon Electricity Sources […]"</em>,
-  reflecting the project's dual ambition:
-</p>
-
-<ol>
-  <li>To optimize the global allocation of low-carbon electricity sources in a resource-constrained world.</li>
-  <li>To investigate how universal access to low-carbon electricity can be achieved in an equitable way — ensuring a decent standard of living while staying within planetary boundaries.</li>
-</ol>
-
 
 
 ---
