@@ -1,26 +1,41 @@
 ---
 layout: page
-title: EQUALS
+title: ""
 permalink: /
 nav: false
-description: "Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
+description: ""
 ---
 
-<div style="display: block; margin-bottom: 2em; text-align: left;">
-  <img src="/equals/assets/img/EQUALS/logo_EQUALS.png"
-       alt="EQUALS – Low-carbon electricity modeling project logo"
-       style="width: 100%; max-width: 480px; border-radius: 16px; background: white; padding: 0.5em; display: block; margin: 0 auto 1em auto;" />
-
-  <div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px;">
-    <strong>🔔 About this project</strong>
-    <p style="margin-top: 0.5em;">
-      <strong>EQUALS</strong> is a research project funded by the
-      <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank">French National Research Agency (ANR)</a>
-      as part of the 2025 Generic Call for Proposals (ANR JCJC).
-      The project started in early 2026 and will run for four years.<br><br>
-      👉 <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank"><strong>Official ANR project page</strong></a>
-    </p>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5em; margin-bottom: 2em;">
+  
+  <!-- Logo EQUALS -->
+  <div style="flex: 1; min-width: 250px; max-width: 480px;">
+    <img src="/equals/assets/img/EQUALS/logo_EQUALS.png"
+         alt="EQUALS – Equitable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World"
+         style="width: 100%; border-radius: 16px; background: white; padding: 0.5em;" />
   </div>
+
+  <!-- Logo ANR -->
+  <div style="flex-shrink: 0;">
+    <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank">
+      <img src="/equals/assets/img/EQUALS/logo_ANR.png"
+           alt="Funded by the French National Research Agency (ANR)"
+           style="height: 80px;" />
+    </a>
+  </div>
+
+</div>
+
+<!-- Bloc institutionnel -->
+<div style="border-left: 6px solid #0d6efd; background-color: #e9f1ff; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 6px;">
+  <strong>🔔 About this project</strong>
+  <p style="margin-top: 0.5em;">
+    <strong>EQUALS</strong> is a research project funded by the
+    <a href="https://anr.fr/en/call-for-proposals-details/call/generic-call-for-proposals-aapg-2025/" target="_blank">French National Research Agency (ANR)</a>
+    as part of the 2025 Generic Call for Proposals (ANR JCJC).
+    The project started in early 2026 and will run for four years.<br><br>
+    👉 <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank"><strong>Official ANR project page</strong></a>
+  </p>
 </div>
 
 ---
