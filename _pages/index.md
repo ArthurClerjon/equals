@@ -35,7 +35,7 @@ description: ""
     as part of the 2025 Generic Call for Proposals (ANR JCJC).
     The project started in early 2026 and will run for four years.<br><br>
 
-  The project acronym <strong>EQUALS</strong> stands for <em>"EQUItable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World."</em>
+  The project acronym <strong>EQUALS</strong> stands for <em>"EQUItable Allocation of Low-carbon Electricity Sources in a Changing and Resource-limited World."</em> <br><br>
 
 
     👉 <a href="https://anr.fr/Projet-ANR-25-CE03-5866/" target="_blank"><strong>Official ANR project page</strong></a>
