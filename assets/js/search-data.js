@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "post-we-convene-a-breakout-group-at-the-friburg-2026-openmod-workshop",
         
-          title: "We convene a breakout group at the Friburg 2026 OPenmod workshop",
+          title: "We convene a breakout group at the Friburg 2026 Openmod workshop",
         
         description: "We convene a 3hours interactive workshop at Openmod.",
         section: "Posts",
