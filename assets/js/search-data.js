@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/pi/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-we-convene-a-breakout-group-at-the-friburg-2026-openmod-workshop",
+        
+          title: "We convene a breakout group at the Friburg 2026 OPenmod workshop",
+        
+        description: "We convene a 3hours interactive workshop at Openmod.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/equals/blog/2026/openmod/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
