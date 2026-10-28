@@ -8,7 +8,15 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
+
+selected_papers: false
+social: false
+
+announcements:
+  enabled: false
+  scrollable: true
+  limit: 5
+
 ---
 
 <!-- Logo EQUALS — identité principale du projet, pleine largeur -->
@@ -48,7 +56,15 @@ latest_posts:
 
 ---
 
+<h2>
+  <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Latest news</a>
+</h2>
+{% include latest_posts.liquid %}
 
+<p style="text-align: right;">
+  <a href="{{ '/blog/' | relative_url }}">All posts →</a>
+</p>
+---
 ## Project Summary
 
 **EQUALS** addresses a major global challenge: transitioning from fossil fuel-based energy systems to
