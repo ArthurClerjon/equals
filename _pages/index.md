@@ -116,5 +116,3 @@ Below is an illustration of the project's approach, from the 2025 ECOS Internati
 <p style="font-size: 0.8rem; color: #666; font-style: italic; margin-top: 2em;">
   Project supported by the ANR — ANR-25-CE03-5866.
 </p>
-
-*Last updated: June 2026*
