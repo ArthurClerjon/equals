@@ -51,11 +51,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/pi/";
           },
-        },{id: "post-justine-gets-teh-l-39-oreal-prize",
+        },{id: "post-justine-duval-was-awarded-the-prize-l-39-oréal-unesco-for-women-in-science-france-2026",
         
-          title: "Justine gets teh L&#39;oreal prize !",
+          title: "Justine Duval was awarded the Prize L&#39;Oréal-UNESCO For Women in Science France 2026...",
         
-        description: "Todo",
+        description: "Draft",
         section: "Posts",
         handler: () => {
           
