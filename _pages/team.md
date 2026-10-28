@@ -9,7 +9,7 @@ description: "The people behind the EQUALS project"
 
 ## Project Members
 
-*Positions funded by the ANR EQUALS grant.*
+*Positions funded by the ANR grant.*
 
 ---
 
