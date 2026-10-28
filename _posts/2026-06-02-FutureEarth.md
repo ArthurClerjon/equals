@@ -3,7 +3,7 @@ layout: post
 title: We convened a breakout group at the 2026 Future Earth conference
 date: 2026-06-02
 description: We convene a 1.5 hours interactive workshop at Openmod.
-tags: Openmod
+tags: conference
 categories: workshops
 thumbnail: 
 images:
