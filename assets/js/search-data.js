@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/publications/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/blog/";
+          },
         },{id: "nav-team",
           title: "Team",
           description: "The people behind the EQUALS project",
@@ -44,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/pi/";
           },
-        },{id: "post-we-convened-a-breakout-group-at-the-friburg-2026-openmod-workshop",
+        },{id: "post-justine-gets-teh-l-39-oreal-prize",
+        
+          title: "Justine gets teh L&#39;oreal prize !",
+        
+        description: "Todo",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/equals/blog/2026/Loreal/";
+          
+        },
+      },{id: "post-we-convened-a-breakout-group-at-the-friburg-2026-openmod-workshop",
         
           title: "We convened a breakout group at the Friburg 2026 Openmod workshop",
         
@@ -53,6 +71,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/equals/blog/2026/openmod/";
+          
+        },
+      },{id: "post-open-source-release-of-an-optimization-tool",
+        
+          title: "Open source release of an optimization tool !",
+        
+        description: "An open toy model of power system develomment that embeds planetary boundaries and energy justice.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/equals/blog/2026/Cairn-wise_released/";
+          
+        },
+      },{id: "post-we-convened-a-breakout-group-at-the-2026-future-earth-conference",
+        
+          title: "We convened a breakout group at the 2026 Future Earth conference",
+        
+        description: "We convene a 1.5 hours interactive workshop at Openmod.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/equals/blog/2026/FutureEarth/";
           
         },
       },{id: "books-the-godfather",
