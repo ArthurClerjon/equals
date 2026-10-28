@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/publications/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/equals/blog/";
-          },
         },{id: "nav-team",
           title: "Team",
           description: "The people behind the EQUALS project",
           section: "Navigation",
           handler: () => {
             window.location.href = "/equals/team/";
+          },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/equals/blog/";
           },
         },{id: "nav-join-us",
           title: "Join Us",
