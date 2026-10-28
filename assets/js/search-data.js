@@ -51,11 +51,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/equals/pi/";
           },
-        },{id: "post-justine-duval-was-awarded-the-prize-l-39-oréal-unesco-for-women-in-science-france-2026",
+        },{id: "post-justine-duval-was-awarded-the-2026-l-oréal-unesco-for-women-in-science-france-prize",
         
-          title: "Justine Duval was awarded the Prize L&#39;Oréal-UNESCO For Women in Science France 2026...",
+          title: "Justine Duval was awarded the 2026 L’Oréal-UNESCO For Women in Science France Prize...",
         
-        description: "Todo",
+        description: "Justine Duval, PhD student at Université Grenoble Alpes and CEA-Liten, is among the 35 laureates of the 2026 L’Oréal-UNESCO For Women in Science France Prize.",
         section: "Posts",
         handler: () => {
           
